@@ -7,7 +7,7 @@ public class EchoSquare {
 		Scanner scan = new Scanner(System.in);
 		int num, square;
 		
-		System.out.println("Enter the integer");
+		System.out.println("Enter an integer");
 		
 		num = scan.nextInt();
 		square = num * num;
