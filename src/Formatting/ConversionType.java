@@ -1,5 +1,6 @@
+package Formatting;
 
-public class Precision {
+public class ConversionType {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

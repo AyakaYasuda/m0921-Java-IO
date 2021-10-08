@@ -1,3 +1,4 @@
+package Formatting;
 
 public class MultipleStatements {
 
